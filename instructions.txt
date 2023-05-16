@@ -23,3 +23,13 @@ copy these commands into git bash one line at a time from your git account
 
 run the following command to make sure everything is working.
  - git status
+
+when you want to uplaod projects to your github account run these commands
+
+git add . 
+git commit -m 'commit message'
+git push
+git status
+
+
+
