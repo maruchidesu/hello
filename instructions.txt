@@ -1,0 +1,25 @@
+use git bash
+create a folder
+ - mkdir foldername
+cd into it
+create a file
+ - touch file.py
+run this command 
+ - git init
+change branch name to main
+ - git branch -m main
+commit your first file
+git add .
+git commit -m 'make inital commit'
+
+go to github and create new repository by only giving it a name and clicking create
+on invite colaborators, invite me brucesensei
+wait for my response
+refresh the page and note that I have responded
+copy these commands into git bash one line at a time from your git account
+ - git remote add origin https://github.com/maruchidesu/projectname.git
+ - git branch -M main
+ - git push -u origin main
+
+run the following command to make sure everything is working.
+ - git status
